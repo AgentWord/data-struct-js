@@ -2,9 +2,11 @@
  * @Author: cdb 
  * @Date: 2021-04-16 08:29:53 
  * @Last Modified by: cdb
- * @Last Modified time: 2021-04-16 18:45:06
+ * @Last Modified time: 2021-04-20 09:43:21
  */
 // 集合数据结构 在 ES6 中已经增加了 Set 类
+// 集合的特性就是 没有重复项 
+// 参考 https://www.jianshu.com/p/2b9b5871313d
 class SetClass{
   constructor(){
     this.times = {}

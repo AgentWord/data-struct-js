@@ -2,10 +2,10 @@
  * @Author: cdb 
  * @Date: 2021-04-16 09:02:57 
  * @Last Modified by: cdb
- * @Last Modified time: 2021-04-16 09:19:47
+ * @Last Modified time: 2021-04-20 09:42:30
  */
 // 字典的数据实现 在 ES6 中已经增加了 Map 类
-
+// 参考 https://www.jianshu.com/p/c53460c9c8e4
 function Dic() {
   
   this.times = {};
